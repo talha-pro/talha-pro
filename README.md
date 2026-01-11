@@ -54,8 +54,10 @@ I am a **Senior Full Stack Engineer** with **5+ years of experience** bridging t
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha-pro&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.demolab.com/?user=talha-pro&theme=tokyonight&hide_border=true" alt="Streak" />
+  </a>
+</div>>
 
 ---
 
