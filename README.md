@@ -33,7 +33,7 @@ I am a **Senior Full Stack Engineer** with **5+ years of experience** bridging t
 
 | **Core Stack** | **AI & Automation** | **DevOps & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> *(Add Custom AI Icons)* | <img src="https://skillicons.dev/icons?i=docker,aws,mongo,postgres,vercel" /> |
+| <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> | <img src="https://skillicons.dev/icons?i=docker,aws,mongo,postgres,vercel" /> |
 
 </div>
 
@@ -65,7 +65,6 @@ I am a **Senior Full Stack Engineer** with **5+ years of experience** bridging t
 | :--- | :--- | :--- |
 | **Agentic Job Accelerator** | `Next.js` `Claude` `n8n` | An AI-driven dashboard that automates resume tailoring and job application tracking. |
 | **Developer Portfolio** | `Next.js` `PostHog` `Slack` | High-performance portfolio with MDX Blog Engine and real-time recruiter tracking. |
-| **YouTube Automation Suite** | `Python` `YouTube API` | Automated trend analysis and metadata generation scripts. |
 
 ---
 
