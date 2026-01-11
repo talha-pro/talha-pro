@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Full Stack Engineer** with **5+ years of experience** bridging the gap between scalable web architectures and intelligent AI agents. Based in **Wah, Pakistan**, I specialize in building "Agentic" workflows that automate complex business processes.
+I am a **Senior Full Stack Engineer** with **5+ years of experience** bridging the gap between scalable web architectures and intelligent AI agents. Based in **Islamabad, Pakistan**, I specialize in building "Agentic" workflows that automate complex business processes.
 
 * 🔭 I’m currently building **AI-powered MicroSaaS platforms** using Next.js 14 and Local LLMs.
 * 🌱 I’m currently diving deep into **Agentic AI & RAG Pipelines** on Google Cloud.
