@@ -1,24 +1,75 @@
-<h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Pakistan</h3>
+<div align="center">
+  <h1 align="center">Hi there, I'm Talha Khan 👋</h1>
+  <h3 align="center">Senior Full Stack Engineer | AI & Automation Specialist</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-pro&label=Profile%20views&color=0e75b6&style=flat" alt="talha-pro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-pro" alt="talha-pro" /></a> </p>
-
-- 🔭 I’m currently working with [designgurus.org](https://www.designgurus.org/)
-
-- 👨‍💻 All of my projects are available at [https://talha.pro/](https://talha.pro/)
-
-- 📫 How to reach me **contact@talha.pro**
-
-- 📄 Know about my experiences [https://talha.pro/](https://talha.pro/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/talha-pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talha-pro" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://talhakhan.pro">
+    <img src="https://img.shields.io/badge/Portfolio-talhakhan.pro-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/talha-pro">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hello@talhakhan.pro">
+    <img src="https://img.shields.io/badge/Email-hello@talhakhan.pro-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-pro&show_icons=true&locale=en&layout=compact" alt="talha-pro" /></p>
+### 👨‍💻 About Me
+
+I am a **Senior Full Stack Engineer** with **5+ years of experience** bridging the gap between scalable web architectures and intelligent AI agents. Based in **Wah, Pakistan**, I specialize in building "Agentic" workflows that automate complex business processes.
+
+* 🔭 I’m currently building **AI-powered MicroSaaS platforms** using Next.js 14 and Local LLMs.
+* 🌱 I’m currently diving deep into **Agentic AI & RAG Pipelines** on Google Cloud.
+* 💬 Ask me about **Next.js, MongoDB, Automation (n8n), and System Design**.
+
+---
+
+### 🛠️ The Tech Stack
+
+<div align="center">
+
+| **Core Stack** | **AI & Automation** | **DevOps & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> *(Add Custom AI Icons)* | <img src="https://skillicons.dev/icons?i=docker,aws,mongo,postgres,vercel" /> |
+
+</div>
+
+**Detailed Breakdown:**
+* **Frontend:** Next.js (App Router), React Server Components, Tailwind CSS, TypeScript.
+* **Backend:** Node.js, Express, Server Actions, GraphQL.
+* **AI/LLM:** OpenAI API, Anthropic Claude, LangChain, n8n, Ollama (Local LLMs).
+* **Database:** MongoDB (Expert), PostgreSQL, Redis (Upstash).
+* **Architecture:** Microservices, Event-Driven Architecture, Docker.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talha-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Talha's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-pro&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha-pro&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+### 🏆 Recent Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **Agentic Job Accelerator** | `Next.js` `Claude` `n8n` | An AI-driven dashboard that automates resume tailoring and job application tracking. |
+| **Developer Portfolio** | `Next.js` `PostHog` `Slack` | High-performance portfolio with MDX Blog Engine and real-time recruiter tracking. |
+| **YouTube Automation Suite** | `Python` `YouTube API` | Automated trend analysis and metadata generation scripts. |
+
+---
+
+<div align="center">
+  <p><i>"The best code is the code you don't have to write."</i></p>
+  <p>Let's build something scalable together. <a href="https://talhakhan.pro"><b>Contact Me →</b></a></p>
+</div>
