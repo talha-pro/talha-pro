@@ -65,7 +65,8 @@ I am a **Senior Software Engineer** with **5+ years of experience** bridging the
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **Agentic Job Accelerator** | `Next.js` `Claude` `n8n` | An AI-driven dashboard that automates resume tailoring and job application tracking. |
+| **Lead Gen AI Agent** | Architected a RAG-based support agent utilizing n8n, OpenAI, and Pinecone VectorDB for intelligent, data-grounded customer interactions.
+| **AI Job Accelerator** | `Next.js` `Claude` `n8n` | An AI-driven dashboard that automates resume tailoring and job application tracking. |
 | **Developer Portfolio** | `Next.js` `PostHog` `Slack` | High-performance portfolio with MDX Blog Engine and real-time recruiter tracking. |
 
 ---
