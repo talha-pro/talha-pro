@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Talha Khan 👋</h1>
-  <h3 align="center">Senior Full Stack Engineer | AI & Automation Specialist</h3>
+  <h3 align="center">Senior Software Engineer | AI & Automation</h3>
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Full Stack Engineer** with **5+ years of experience** bridging the gap between scalable web architectures and intelligent AI agents. Based in **Islamabad, Pakistan**, I specialize in building "Agentic" workflows that automate complex business processes.
+I am a **Senior Software Engineer** with **5+ years of experience** bridging the gap between scalable web architectures and intelligent AI agents. Based in **Islamabad, Pakistan**, I specialize in building "Agentic" workflows that automate complex business processes.
 
 * 🔭 I’m currently building **AI-powered MicroSaaS platforms** using Next.js 14 and Local LLMs.
 * 🌱 I’m currently diving deep into **Agentic AI & RAG Pipelines** on Google Cloud.
@@ -39,10 +39,10 @@ I am a **Senior Full Stack Engineer** with **5+ years of experience** bridging t
 
 **Detailed Breakdown:**
 * **Frontend:** Next.js (App Router), React Server Components, Tailwind CSS, TypeScript.
-* **Backend:** Node.js, Express, Server Actions, GraphQL.
-* **AI/LLM:** OpenAI API, Anthropic Claude, LangChain, n8n, Ollama (Local LLMs).
+* **Backend:** Node.js, Express.
+* **AI/LLM:** OpenAI API, Anthropic Claude, Codex, n8n, Ollama (Local LLMs).
 * **Database:** MongoDB (Expert), PostgreSQL, Redis (Upstash).
-* **Architecture:** Microservices, Event-Driven Architecture, Docker.
+* **Architecture:** Microservices, Docker.
 
 ---
 
